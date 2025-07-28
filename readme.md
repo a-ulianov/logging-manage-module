@@ -28,7 +28,12 @@ A production-grade logging solution for Python applications featuring domain iso
 ### Installation
 
 ```bash
-pip install your-logging-package
+git clone git@github.com:a-ulianov/logging-manage-module.git
+cd logging-manage-module
+python -m venv venv
+source venv/bin/activate      # for Linux
+# venv/Script/activate.bat    # for Windows
+pip install -r ./requrements.txt
 ```
 
 Or add to your project's dependencies.
