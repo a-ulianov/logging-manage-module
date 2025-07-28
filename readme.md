@@ -1,6 +1,6 @@
 # Logging Infrastructure Module
 
-[![Tests](https://github.com/a-ulianov/logging-manage-module/actions/workflows/test.yaml/badge.svg)](https://github.com/a-ulianov/logging-manage-module/actions/workflows/test.yml)
+[![Tests](https://github.com/a-ulianov/logging-manage-module/actions/workflows/test.yml/badge.svg)](https://github.com/a-ulianov/logging-manage-module/actions/workflows/test.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=a-ulianov_logging-manage-module&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=a-ulianov_logging-manage-module)[![codecov](https://codecov.io/gh/a-ulianov/logging-manage-module/branch/main/graph/badge.svg)](https://codecov.io/gh/a-ulianov/logging-manage-module)
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
